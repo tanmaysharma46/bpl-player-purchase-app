@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.circle-list {
+  list-style-type: circle;
+}
